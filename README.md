@@ -7,17 +7,7 @@ Create database and import file in folder db for table
 
 ## Build/Run
 
-### `/* First, Install the needed packages */
-npm install
-
-/* Then start both Node and React */
-npm start
-
-/* To run the tests */
-npm run test
-
-/* Running e2e tests */
-npm run wdio`
+### `npm install`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
