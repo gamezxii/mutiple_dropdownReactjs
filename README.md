@@ -13,6 +13,8 @@ Create database and import file in folder db for table
 ### Requirements
 ⋅⋅* Node.js
 ⋅⋅* NPM 
+⋅⋅* Unordered sub-list. 
+
 
 
 
